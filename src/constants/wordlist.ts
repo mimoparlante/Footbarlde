@@ -26,7 +26,6 @@ export const WORDS = [
 'ERLIC',
 'MARIN',
 'REINA',
-'MARI'',
 'HYSAJ',
 'KJAER',
 'MEDEL',
