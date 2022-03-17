@@ -1,7 +1,7 @@
 {
-    "name": "any-language-wordle",
+    "name": "Footbarlde",
     "version": "0.1.0",
-    "homepage": "https://roedoejet.github.io/AnyLanguage-Wordle",
+    "homepage": "https://github.com/mimoparlante/Footbarlde",
     "private": true,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
